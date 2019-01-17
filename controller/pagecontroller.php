@@ -16,8 +16,8 @@
       * @NoCSRFRequired
       */
      public function index() {
-          return ['test' => 'hi'];
-          //return new TemplateResponse('ownnotes', 'main');
+          //return ['test' => 'hi'];
+          return new TemplateResponse('bitganjcloud', 'main');
      }
 
  }
