@@ -8,7 +8,9 @@ This is the tutorial app. To install it change into your ownCloud's apps directo
 
 Then run:
 
-    git clone git@github.com:BtcRelax/BitGanjCloudWebApp.git BitGanjCloud
+    git clone git@github.com:BtcRelax/BitGanjCloudWebApp.git bitganjcloud
+or:
+    git https://github.com/BtcRelax/BitGanjCloudWebApp.git bitganjcloud
 
 where the branch parameter is the ownCloud version that you are targeting:
 
