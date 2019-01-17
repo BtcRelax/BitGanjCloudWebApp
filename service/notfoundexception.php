@@ -1,6 +1,6 @@
 <?php
 
-namespace OCA\OwnNotes\Service;
+namespace OCA\BitGanjCloud\Service;
 
 
 class NotFoundException extends ServiceException {}

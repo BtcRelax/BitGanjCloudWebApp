@@ -1,13 +1,13 @@
 <?php
-namespace OCA\OwnNotes\Service;
+namespace OCA\BitGanjCloud\Service;
 
 use Exception;
 
 use OCP\AppFramework\Db\DoesNotExistException;
 use OCP\AppFramework\Db\MultipleObjectsReturnedException;
 
-use OCA\OwnNotes\Db\Note;
-use OCA\OwnNotes\Db\NoteMapper;
+use OCA\BitGanjCloud\Db\Note;
+use OCA\BitGanjCloud\Db\NoteMapper;
 
 
 class NoteService {

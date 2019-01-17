@@ -1,5 +1,5 @@
 <?php
-namespace OCA\OwnNotes\Db;
+namespace OCA\BitGanjCloud\Db;
 
 use JsonSerializable;
 

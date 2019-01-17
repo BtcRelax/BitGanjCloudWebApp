@@ -1,7 +1,7 @@
 <?php
-script('ownnotes', 'handlebars');
-script('ownnotes', 'script');
-style('ownnotes', 'style');
+script('bitganjcloud', 'handlebars');
+script('bitganjcloud', 'script');
+style('bitganjcloud', 'style');
 ?>
 
 <div id="app">

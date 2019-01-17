@@ -1,5 +1,5 @@
 <?php
-namespace OCA\OwnNotes\Controller;
+namespace OCA\BitGanjCloud\Controller;
 
 use OCP\IRequest;
 use OCP\AppFramework\Http\DataResponse;

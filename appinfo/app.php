@@ -1,5 +1,5 @@
 <?php
-namespace OCA\OwnNotes\AppInfo;
+namespace OCA\BitGanjCloud\AppInfo;
 
 use OCP\AppFramework\App;
 

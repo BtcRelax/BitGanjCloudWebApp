@@ -1,6 +1,6 @@
 <?php
 
-namespace OCA\OwnNotes\Controller;
+namespace OCA\BitGanjCloud\Controller;
 
 use Closure;
 
