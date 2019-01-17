@@ -16,7 +16,8 @@
       * @NoCSRFRequired
       */
      public function index() {
-         return new TemplateResponse('ownnotes', 'main');
+          return ['test' => 'hi'];
+          //return new TemplateResponse('ownnotes', 'main');
      }
 
  }
