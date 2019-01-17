@@ -1,12 +1,12 @@
 <?xml version="1.0"?>
 <info>
-    <id>ownnotes</id>
-    <name>Own Notes</name>
-    <description>My first ownCloud app</description>
+    <id>bitganjcloud</id>
+    <name>BitGanj Cloud</name>
+    <description>Cloud app for woprk with BitGanj sphop</description>
     <licence>AGPL</licence>
-    <author>Bernhard Posselt</author>
+    <author>god Jah</author>
     <version>0.0.2</version>
-    <namespace>OwnNotes</namespace>
+    <namespace>BitGanjCloud</namespace>
     <category>other</category>
     <dependencies>
         <owncloud min-version="8" />
